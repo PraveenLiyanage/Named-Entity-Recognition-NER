@@ -15,6 +15,8 @@ Follow these instructions to get your project up and running quickly.
 **Used dependancies :**
 ```bash
 pip install simpletransformers
+pip install scikit-learn
+pip install pandas
 ```
 
 **Clone Repo Here :**
